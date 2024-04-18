@@ -13,7 +13,7 @@
       <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
     </a>
   </div>
-  <h1>Week 14 Lab in Web Services</h1>
+  <h1>This is crazy</h1>
 
   <div class="card">
     <Counter />
